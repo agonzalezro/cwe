@@ -1,6 +1,6 @@
-.. warning:: This is a proof of concept to show how to access to the
-             information needed at the project `"Common Welfare Economy" (aka
-             Gemeinwohl-Ökonomie) <http://www.gemeinwohl-oekonomie.org/en/>`_.
+.. note:: This is a proof of concept to show how to access to the
+          information needed at the project `"Common Welfare Economy" (aka
+          Gemeinwohl-Ökonomie) <http://www.gemeinwohl-oekonomie.org/en/>`_.
 
 The project was developed with django and it is a very basic project that
 allows you to:
