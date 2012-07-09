@@ -1,4 +1,5 @@
 Django==1.4
-django-countries==1.2
+django-countries
 django-extensions==0.9
 django-tastypie==0.9.11
+docutils
